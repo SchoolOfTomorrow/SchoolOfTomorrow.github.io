@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://schooloftomorrow.github.io/de/teachers/1-app-benefitial/</loc>
+    <loc>https://schooloftomorrow.github.io/de/teachers/1-goal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/1-app-benefitial/"
+                href="https://schooloftomorrow.github.io/teachers/1-goal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/1-app-benefitial/"
+                href="https://schooloftomorrow.github.io/fr/teachers/1-goal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/1-app-benefitial/"
+                href="https://schooloftomorrow.github.io/de/teachers/1-goal/"
                 />
   </url>
   
@@ -155,40 +155,21 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/de/teachers/3-participation-study/</loc>
+    <loc>https://schooloftomorrow.github.io/de/teachers/2-participation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/3-participation-study/"
+                href="https://schooloftomorrow.github.io/teachers/2-participation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/3-participation-study/"
+                href="https://schooloftomorrow.github.io/fr/teachers/2-participation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/3-participation-study/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://schooloftomorrow.github.io/de/teachers/2-participation-general/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/2-participation-general/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/2-participation-general/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/2-participation-general/"
+                href="https://schooloftomorrow.github.io/de/teachers/2-participation/"
                 />
   </url>
   
@@ -269,21 +250,21 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/de/teachers/4-participation-implications/</loc>
+    <loc>https://schooloftomorrow.github.io/de/teachers/3-design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/4-participation-implications/"
+                href="https://schooloftomorrow.github.io/teachers/3-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/4-participation-implications/"
+                href="https://schooloftomorrow.github.io/fr/teachers/3-design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/4-participation-implications/"
+                href="https://schooloftomorrow.github.io/de/teachers/3-design/"
                 />
   </url>
   
@@ -346,40 +327,21 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/de/teachers/6-how-app-works/</loc>
+    <loc>https://schooloftomorrow.github.io/de/teachers/4-app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/6-how-app-works/"
+                href="https://schooloftomorrow.github.io/teachers/4-app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/6-how-app-works/"
+                href="https://schooloftomorrow.github.io/fr/teachers/4-app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/6-how-app-works/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://schooloftomorrow.github.io/de/teachers/7-questions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/7-questions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/7-questions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/7-questions/"
+                href="https://schooloftomorrow.github.io/de/teachers/4-app/"
                 />
   </url>
   
