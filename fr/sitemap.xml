@@ -117,21 +117,21 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/fr/methodology/</loc>
+    <loc>https://schooloftomorrow.github.io/fr/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/methodology/"
+                href="https://schooloftomorrow.github.io/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/methodology/"
+                href="https://schooloftomorrow.github.io/de/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/methodology/"
+                href="https://schooloftomorrow.github.io/fr/research/"
                 />
   </url>
   
@@ -309,6 +309,25 @@
   </url>
   
   <url>
+    <loc>https://schooloftomorrow.github.io/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://schooloftomorrow.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://schooloftomorrow.github.io/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://schooloftomorrow.github.io/fr/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>https://schooloftomorrow.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -362,25 +381,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://schooloftomorrow.github.io/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://schooloftomorrow.github.io/fr/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://schooloftomorrow.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://schooloftomorrow.github.io/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/contact/"
                 />
   </url>
   

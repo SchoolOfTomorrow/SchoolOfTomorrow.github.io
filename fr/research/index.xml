@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Méthodologie on School of Tomorrow</title>
-    <link>https://schooloftomorrow.github.io/fr/methodology/</link>
-    <description>Recent content in Méthodologie on School of Tomorrow</description>
+    <title>Recherche on School of Tomorrow</title>
+    <link>https://schooloftomorrow.github.io/fr/research/</link>
+    <description>Recent content in Recherche on School of Tomorrow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>© 2020 School of Tomorrow project. Publié avec [Hugo](https://gohugo.io/) &amp; [gethugothemes](https://gethugothemes.com/).</copyright>
     
-	<atom:link href="https://schooloftomorrow.github.io/fr/methodology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://schooloftomorrow.github.io/fr/research/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

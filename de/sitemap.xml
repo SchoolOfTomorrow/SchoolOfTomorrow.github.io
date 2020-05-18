@@ -155,21 +155,21 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/de/methodology/</loc>
+    <loc>https://schooloftomorrow.github.io/de/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/methodology/"
+                href="https://schooloftomorrow.github.io/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/methodology/"
+                href="https://schooloftomorrow.github.io/fr/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/methodology/"
+                href="https://schooloftomorrow.github.io/de/research/"
                 />
   </url>
   
