@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frequently asked questions on School of Tomorrow</title>
+    <link>https://schooloftomorrow.github.io/questions/1-questions/</link>
+    <description>Recent content in Frequently asked questions on School of Tomorrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 School of Tomorrow project. Powered with [Hugo](https://gohugo.io/) &amp; [gethugothemes](https://gethugothemes.com/).</copyright>
+    
+	<atom:link href="https://schooloftomorrow.github.io/questions/1-questions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -22,6 +22,25 @@
   </url>
   
   <url>
+    <loc>https://schooloftomorrow.github.io/de/questions/1-questions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://schooloftomorrow.github.io/questions/1-questions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://schooloftomorrow.github.io/fr/questions/1-questions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://schooloftomorrow.github.io/de/questions/1-questions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://schooloftomorrow.github.io/de/teachers/1-news/</loc>
     <xhtml:link
                 rel="alternate"
@@ -75,6 +94,25 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/2-participation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://schooloftomorrow.github.io/de/questions/2-trouble/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://schooloftomorrow.github.io/questions/2-trouble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://schooloftomorrow.github.io/fr/questions/2-trouble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://schooloftomorrow.github.io/de/questions/2-trouble/"
                 />
   </url>
   
@@ -232,7 +270,7 @@
   
   <url>
     <loc>https://schooloftomorrow.github.io/de/publications/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -309,7 +347,7 @@
   
   <url>
     <loc>https://schooloftomorrow.github.io/de/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -347,6 +385,25 @@
   </url>
   
   <url>
+    <loc>https://schooloftomorrow.github.io/de/questions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://schooloftomorrow.github.io/questions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://schooloftomorrow.github.io/fr/questions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://schooloftomorrow.github.io/de/questions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://schooloftomorrow.github.io/de/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -362,25 +419,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://schooloftomorrow.github.io/de/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://schooloftomorrow.github.io/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://schooloftomorrow.github.io/de/faq/"
                 />
   </url>
   
