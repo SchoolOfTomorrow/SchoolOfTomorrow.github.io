@@ -327,21 +327,40 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/teachers/6-safety/</loc>
+    <loc>https://schooloftomorrow.github.io/teachers/6-app-instructions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://schooloftomorrow.github.io/de/teachers/6-safety/"
+                href="https://schooloftomorrow.github.io/de/teachers/6-app-instructions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/teachers/6-safety/"
+                href="https://schooloftomorrow.github.io/fr/teachers/6-app-instructions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://schooloftomorrow.github.io/teachers/6-safety/"
+                href="https://schooloftomorrow.github.io/teachers/6-app-instructions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://schooloftomorrow.github.io/teachers/7-safety/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://schooloftomorrow.github.io/de/teachers/7-safety/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://schooloftomorrow.github.io/fr/teachers/7-safety/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://schooloftomorrow.github.io/teachers/7-safety/"
                 />
   </url>
   
@@ -385,25 +404,6 @@
   </url>
   
   <url>
-    <loc>https://schooloftomorrow.github.io/questions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://schooloftomorrow.github.io/de/questions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://schooloftomorrow.github.io/fr/questions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://schooloftomorrow.github.io/questions/"
-                />
-  </url>
-  
-  <url>
     <loc>https://schooloftomorrow.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -419,6 +419,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://schooloftomorrow.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://schooloftomorrow.github.io/questions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://schooloftomorrow.github.io/de/questions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://schooloftomorrow.github.io/fr/questions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://schooloftomorrow.github.io/questions/"
                 />
   </url>
   
