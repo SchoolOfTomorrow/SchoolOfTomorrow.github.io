@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://schooloftomorrow.github.io/de/parents/</loc>
     <xhtml:link
@@ -19,9 +18,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/questions/1-questions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,9 +35,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/questions/1-questions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/1-news/</loc>
     <xhtml:link
                 rel="alternate"
@@ -57,9 +52,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/1-news/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/parents/1-goal/</loc>
     <xhtml:link
                 rel="alternate"
@@ -76,9 +69,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/1-goal/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/parents/2-participation/</loc>
     <xhtml:link
                 rel="alternate"
@@ -95,9 +86,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/2-participation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/questions/2-trouble/</loc>
     <xhtml:link
                 rel="alternate"
@@ -114,9 +103,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/questions/2-trouble/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/</loc>
     <xhtml:link
                 rel="alternate"
@@ -133,9 +120,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/2-goal/</loc>
     <xhtml:link
                 rel="alternate"
@@ -152,9 +137,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/2-goal/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/parents/3-design/</loc>
     <xhtml:link
                 rel="alternate"
@@ -171,9 +154,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/3-design/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -190,9 +171,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/research/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/3-participation/</loc>
     <xhtml:link
                 rel="alternate"
@@ -209,9 +188,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/3-participation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/4-design/</loc>
     <xhtml:link
                 rel="alternate"
@@ -228,9 +205,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/4-design/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/parents/4-app/</loc>
     <xhtml:link
                 rel="alternate"
@@ -247,9 +222,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/4-app/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -266,9 +239,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/team/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/publications/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -286,9 +257,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/publications/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/5-app/</loc>
     <xhtml:link
                 rel="alternate"
@@ -305,9 +274,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/5-app/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/parents/5-safety/</loc>
     <xhtml:link
                 rel="alternate"
@@ -324,9 +291,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/parents/5-safety/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/6-app-instructions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -343,9 +308,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/6-app-instructions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/teachers/7-safety/</loc>
     <xhtml:link
                 rel="alternate"
@@ -362,9 +325,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/teachers/7-safety/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -382,9 +343,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -401,9 +360,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/questions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -420,9 +377,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/questions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -439,9 +394,7 @@
                 hreflang="de"
                 href="https://schooloftomorrow.github.io/de/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://schooloftomorrow.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -459,5 +412,4 @@
                 href="https://schooloftomorrow.github.io/de/tags/"
                 />
   </url>
-  
 </urlset>

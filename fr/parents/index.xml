@@ -6,10 +6,6 @@
     <description>Recent content in Parents on School of Tomorrow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>© 2020 School of Tomorrow project. Publié avec [Hugo](https://gohugo.io/) &amp; [gethugothemes](https://gethugothemes.com/).</copyright>
-    
-	<atom:link href="https://schooloftomorrow.github.io/fr/parents/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© 2020 School of Tomorrow project. Publié avec [Hugo](https://gohugo.io/) &amp; [gethugothemes](https://gethugothemes.com/).</copyright><atom:link href="https://schooloftomorrow.github.io/fr/parents/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
